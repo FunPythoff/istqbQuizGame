@@ -61,19 +61,20 @@ with open('questions.txt', 'r') as file:
 questions = []
 questions = [
     {
-        'question': 'Jaka jest stolica Polski?',
-        'answers': ['Warszawa', 'Kraków', 'Gdańsk', 'Wrocław'],
+        'question': 'Co to jest przypadek testowy?',
+        'answers': ['Zbiór danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i końcowych warunków', 
+                    'Test2', 'Test3', 'Test4'],
         'correct_answer': 'Warszawa'
     },
     {
-        'question': 'Ile wynosi pierwiastek z 25?',
+        'question': 'Ile to 1 + 1',
         'answers': ['2', '3', '4', '5'],
-        'correct_answer': '5'
+        'correct_answer': '2'
     },
     {
-        'question': 'Która planeta jest największa w Układzie Słonecznym?',
-        'answers': ['Mars', 'Wenus', 'Jowisz', 'Ziemia'],
-        'correct_answer': 'Jowisz'
+        'question': 'Co to jest ISTQB',
+        'answers': ['Test1', 'Test2', 'Test3', 'Test4'],
+        'correct_answer': 'Test3'
     }
 ]
 
