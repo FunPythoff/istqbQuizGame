@@ -1,0 +1,27 @@
+Q:Co to jest przypadek testowy ?
+A:Polska
+A:Warszawa
+A:Kraków
+A:Poznań
+A:Polska
+
+Q:Co to jest przypadek testowy ?
+A:Polska
+A:Warszawa
+A:Kraków
+A:Poznań
+A:Polska
+
+Q:Co to jest przypadek testowy ?
+A:Polska
+A:Warszawa
+A:Kraków
+A:Poznań
+A:Polska
+
+Q:Co to jest przypadek testowy ?
+A:Polska
+A:Warszawa
+A:Kraków
+A:Poznań
+A:Polska
